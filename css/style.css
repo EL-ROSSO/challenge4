@@ -1,0 +1,17 @@
+#display{
+	text-align: center;
+	margin-left: 100px;
+}
+body{
+	background-image: url("../assets/Lx-iDn.gif");
+}
+h1{
+	color: white;
+}
+h2{
+	color: white;
+}
+#you_win{
+	margin-top: 1000px;
+	color: white;
+} 
